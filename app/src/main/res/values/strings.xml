@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Odev-4</string>
+    <string name="customListImage">CustomListImage</string>
+    <string name="customListText">CustomListText</string>
+</resources>
